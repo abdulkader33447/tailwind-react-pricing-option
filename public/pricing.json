@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Basic Plan",
+    "price": "$29/month",
+    "description": "Perfect for beginners or those looking to stay fit with access to core gym facilities.",
+    "features": [
+      "Access to gym equipment (6am – 10pm)",
+      "Locker room & showers",
+      "Free Wi-Fi",
+      "1 complimentary personal training session/month",
+      "Access to member-only app",
+      "Fitness progress tracking (basic)",
+      "Hydration station access"
+    ]
+  },
+  {
+    "name": "Standard Plan",
+    "price": "$49/month",
+    "description": "For regular gym-goers who want more flexibility and classes.",
+    "features": [
+      "Everything in Basic Plan",
+      "Unlimited group classes (yoga, HIIT, spin, etc.)",
+      "Extended hours access (24/7)",
+      "2 personal training sessions/month",
+      "Nutrition guidance (monthly)",
+      "Online workout library access",
+      "1 guest pass/month",
+      "Fitness progress tracking (enhanced)"
+    ]
+  },
+  {
+    "name": "Premium Plan",
+    "price": "$79/month",
+    "description": "The ultimate fitness package for full-body transformation and premium perks.",
+    "features": [
+      "Everything in Standard Plan",
+      "4 personal training sessions/month",
+      "Sauna and recovery zone access",
+      "Body composition tracking (monthly)",
+      "Priority booking for classes",
+      "Free guest passes (2/month)",
+      "Massage chair access",
+      "Access to exclusive wellness workshops",
+      "Dedicated locker space",
+      "Fitness tracking wearable integration"
+    ]
+  }
+]

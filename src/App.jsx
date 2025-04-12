@@ -6,8 +6,8 @@ function App() {
   return (
     <>
       <header>
-        <DaisyNav></DaisyNav>
         <NavBar></NavBar>
+        {/* <DaisyNav></DaisyNav> */}
       </header>
 
       <main></main>
