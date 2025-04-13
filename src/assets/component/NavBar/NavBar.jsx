@@ -38,7 +38,7 @@ const NavBar = () => {
   ));
 
   return (
-    <nav className="flex justify-between mt-5 mx-5">
+    <nav className="flex justify-between mt-5 ">
       <span className="flex gap-5" onClick={() => setOpen(!open)}>
         {open ? (
           <X className="md:hidden"></X>
