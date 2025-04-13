@@ -2,6 +2,7 @@
   {
     "name": "Basic Plan",
     "price": "$29/month",
+    "id": 1,
     "description": "Perfect for beginners or those looking to stay fit with access to core gym facilities.",
     "features": [
       "Access to gym equipment (6am – 10pm)",
@@ -14,6 +15,8 @@
   {
     "name": "Standard Plan",
     "price": "$49/month",
+    "popular":true,
+    "id":2,
     "description": "For regular gym-goers who want more flexibility and classes.",
     "features": [
       "Everything in Basic Plan",
@@ -29,6 +32,7 @@
   {
     "name": "Premium Plan",
     "price": "$79/month",
+    "id":3,
     "description": "The ultimate fitness package for full-body transformation and premium perks.",
     "features": [
       "Everything in Standard Plan",
